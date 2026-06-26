@@ -147,6 +147,7 @@ body::before {
   text-decoration: none;
 }
 .logo-icon { font-size: 30px; filter: drop-shadow(0 0 12px rgba(245,158,11,0.6)); }
+.logo-img { width: 42px; height: 42px; object-fit: cover; border-radius: 50%; filter: drop-shadow(0 0 8px rgba(245,158,11,0.5)); }
 .logo-text {
   font-family: 'Playfair Display', serif;
   font-size: 21px;
